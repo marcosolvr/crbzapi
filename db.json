@@ -1,4 +1,6 @@
-{    "products": [{
+{    
+  "products": [
+    {
       "productId": 1,
       "productName": "SAPATO FLOATER PRETO",
       "stars": 1,
@@ -49,5 +51,9 @@
       "price": 7990,
       "installments": []
     }
-  ]
+  ],
+  "newsletter": {
+    "email": "heroku@test.co",
+    "name": "test"
+  }
 }
